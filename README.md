@@ -1,4 +1,4 @@
-# Blockchain-ShOp-Transaction
+# Blockchain-ShOp-Transactio
 
 Overview
 The Product Transaction History Viewer is a Python application built using the Tkinter library that allows users to explore the transaction history of various products stored in a CSV file. The application employs the concepts of blockchain technology to represent transaction data as blocks in a blockchain.
