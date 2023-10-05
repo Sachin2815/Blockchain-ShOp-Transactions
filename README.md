@@ -12,7 +12,7 @@ Dynamic Data Loading: The application dynamically loads product names from the p
 
 User-Friendly Interface: The graphical user interface (GUI) provides an intuitive and visually appealing experience for users. Products are displayed in rows, and transaction history is shown in a formatted manner.
 
-How to Use
+How to Use:-
 Select Product: Click on the product button corresponding to the desired product you want to view the transaction history for.
 
 View Transaction History: The application retrieves transaction data for the selected product from the CSV file and displays it as blocks in a blockchain. Each block contains information about a specific transaction, including timestamps, transaction numbers, and other relevant details.
